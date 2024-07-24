@@ -1,9 +1,4 @@
-<html>
-<head>
-<title>
-tables
-</title>
-</head>
+
 <body>
 <table border = 3 cell padding = 5 cellspacing = 5  bordercolor = "green"  bgcolor  =  "skyblue" height=100 width=150 >
 <caption>tables of html</caption>
